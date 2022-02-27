@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A call from Heaven to the unconverted A sermon preached at the f[un]eral of Mr. John Gaspine. If these weighty considerations are not worth your reading, keep it clean, and return it when calld [sic] for.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79186</idno>
+            <idno type="STC">Wing C296A</idno>
+            <idno type="STC">ESTC R229576</idno>
+            <idno type="EEBO-CITATION">99899286</idno>
+            <idno type="PROQUEST">99899286</idno>
+            <idno type="VID">152864</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152864)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2328:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A call from Heaven to the unconverted A sermon preached at the f[un]eral of Mr. John Gaspine. If these weighty considerations are not worth your reading, keep it clean, and return it when calld [sic] for.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Williams,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Identified as Wing C296A, reel 2328, of the UMI microfilm set, "Early English books, 1641-1700".</note>
+                  <note>Date of publication from Wing C296A.</note>
+                  <note>Cf. Wing C296A which has "J. Williams" in the imprint.</note>
+                  <note>Reproduction of original in Dr. Williams' Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gaspine, John --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152864:1" rendition="simple:additions"/>
+            <p>
+               <hi>A Call from Heaven to the Uncon<g ref="char:EOLhyphen"/>verted.</hi>
+            </p>
+            <p>A SERMON Preached at the F<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ERAL OF Mr. <hi>JOHN GASPINE.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>IF theſe weighty Conſiderations are not worth your R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ading, keep it clean, and return it when calld for.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>John Williams.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="2" facs="tcp:152864:2"/>
+            <head>
+               <q>
+                  <bibl>REV. ii. v.</bibl>
+                  <p>Remember therefore from whence thou art fallen, and repent, and do the firſt works; or elſe I will come unto thee quickly, and will remove thy candleſtick out of his place, except thou repent.</p>
+               </q>
+            </head>
+            <p>IN theſe Words there is a ſevere threatning; <hi>I will come u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>to thee quickly, and I will remove thy candleſtick out of his place.</hi>
+            </p>
+            <p>A Candleſtick ſignifies the Church of God, or a Company, or a Society of People met together to worſhip God in Spirit and in Truth. As if he ſhould ſay, I will ſmite thy Shephe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds and ſcatter thy Flocks; I will take away thy Lights, and I will leave <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hee in <hi>Egyptian</hi> dark<g ref="char:EOLhyphen"/>neſs; I will cut off my Ordinances, which are my golden Pipes to convey the Water of Life unto you.</p>
+            <p>But you will ſay, <hi>Why is the Lord ſo angry with Epheſus?</hi>
+            </p>
+            <p>It is, becauſe of the Churches ſins; it is, becauſe thou haſt not loved me as once thou didſt. Want of love to Chriſt is a Sin that deſerveth to be unchurched; that deſerveth that God ſhould take away your Miniſters For, what is our preaching for, but to gain your Lo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſt, and to hate the Devil<g ref="char:punc">▪</g>
+            </p>
+            <p>
+               <hi>Secondly,</hi> In the ſecond Place, the Works o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>is Church of <hi>Epheſus</hi> were; they had been very labourious in the external Principles of R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ligion, in promoting the Salvation of Souls; but yet notwithſtanding they had gone ſo far, yet they had not done what they did out of a right Principle, that is, out of pure Love to Chriſt; this makes the Lord ſo angry, tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he threatened to unchurch them.</p>
+            <pb n="3" facs="tcp:152864:2"/>
+            <p>Well, but is there no remedy to prevent this heavy Judgement? He that holds forth the Rod tells you a Remedy. As if he ſhould ſay, Oh you <hi>Epheſians,</hi> if you will love me better, and if you will be more painfu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the great Work of your Salvation, if you will but repent of your ſins, I will not bring thoſe heavy Judge<g ref="char:EOLhyphen"/>ments upon you, which I threatned to bring upon you.</p>
+            <p>When the Goſpel goes God goes; and when God goes, Chriſt goes; and when Chriſt goes, the miniſtring Angels of the Covenant go; the Candleſtick goes, and the Lights they go along with it.</p>
+            <p>What then follows, when God goes? Then the Devil he comes, yea legions of Devils come; and then there follow the Plague, Peſtilence, Famine, Sword, and all other manner of evils. God doth not go alone, neither doth God remove his Candleſtick alone. I do not tell you that God threatens you to pull down all your Lights<g ref="char:punc">▪</g> I would not terrifie you by telling you that God is a departing from you, when he puts out ſome of your Lights: But yet I muſt needs tell you, that when God doth deprive you of ſo many hundreds, of as Pious, and as Laborious, and as Learned (ſome of them) as any are in the Vineyard, I ſay, when God deals thus by you, I cannot think that it is in mercy to you, but in Judge<g ref="char:EOLhyphen"/>ment.</p>
+            <p>The Church of <hi>England</hi> is a great People, and there are many poor Souls in it that are as Fire-brands in the Fire, that have great need to be pluckt out; and as there are, bleſſed be God, many eminent Miniſters at this Day in <hi>England,</hi> to ſnatch ſuch poor Souls, as Fire-brands out of the Fire; yet, I ſay, that where there is one, we have need of ten.</p>
+            <p>But though our diſeaſe is dangerous, yet it is not deſ<g ref="char:EOLhyphen"/>perate; there is one way for us to prevent thoſe he<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vy Judgements that the Lord doth threaten to inflict upon
+<pb n="4" facs="tcp:152864:3"/>us; and that is by repentance, by a ſerious repenting of the Sins paſt of our lives, and to amend what hath been amiſs in us.</p>
+            <p>I ſhall now come to make ſome Application.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. In the firſt Place, is this a Truth, that Repent<g ref="char:EOLhyphen"/>ance is the only Way and Means to prevent the Judg<g ref="char:EOLhyphen"/>ments of God that are th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eatned againſt a People by God for ſin. Then firſt of all, <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> would have you to obſerve the curſed nature of this curſed thing, called ſin: Sin muſt be repented of or it will deſtroy us, it will deſtroy our Bodies, it will deſtroy our Souls, it will deſtroy our Kingdom; this is the curſed nature of this thing called ſin.</hi>
+            </p>
+            <p>My beloved, I think it is one of the hardeſt that is, to underſtand the exceeding ſinfulneſs of ſin, to under<g ref="char:EOLhyphen"/>ſtand that deadly Poiſon that is in it; it is for want of the true Knowledge of it, that cauſeth that deadneſs of Heart that you ſo much groan under. Thus you ſee that ſin (that thing we ſo much ſlight) what a terrible thing it is. Alas, what think many of us of a vain Word or an idle thought, or ſwearing an Oath: what a trifling thing it is to neglect Prayer.</p>
+            <p>But let me ask, you that think ſin to be ſo ſlight a matter, what is the reaſon that God is ſo angry that he made Man? what is the reaſon that many a ſinful Church hath made God repent that ever he made a Church? I ſay therefore, conſider the exceeding Venom that there is in ſin: Oh! take heed of ſin, it is a Child, that although it be conceived in joy, yet it ſhall bring forth ſorrow in the End. Curſed be the Day that ever ſin was born into the World. Sin, it is ſo vile a thing, that it makes God for to cry out at it, and Jeſus Chriſt for to cry out at it, and makes them to ſay, they will be gone: If you continue in your ſins, I will take away my Miniſters, and leave you in darkneſs.</p>
+            <p>Tuſh, ſay you, what is ſin? I ſay it is the Venom and
+<pb n="5" facs="tcp:152864:3"/>Poiſon of our Natures, it is that which is, as the Hand to unſheath the Sword, and to thruſt it into our own Bowels, Sin, it is as a Milſtone that is tied about our Necks, that will pull us both Soul and Body into the bottom of that Sea of the wrath of God from whence there will be no recovery; ſin is a Plague that will follow our Poſterity after we are gone out of this World; ſin it is a worm upon the Tree of Life that eats up the fruit of it; ſin it is which makes the Lord to take away the Goſpel from amongſt us; ſin it is a Deviliſh Charm within us, that drives away God, and Chriſt, and the Goſpel from amongſt us: This is the Evil of that curſed thing called ſin. Oh! do not you make a little matter of it: Do not you ſay, when you have been drunk, what harm is there that I have drunk a Cup too much? do not ſay, whan harm is there in my telling a lie, or ſwearing, an Oath? Oh my beloved, what a ſad thing is this ſin, that it ſhould cauſe God for to throw Angels out of Heaven into Hell! Pride caſt Angels into Hell, take heed it doth not ſo by you. Sin made God to deſtroy all the Old World; ſin made God to repent that he had made the World; ſin made God for to burn <hi>Sodom</hi> and <hi>Gomorrah;</hi> ſin made God for to threaten <hi>Epheſus,</hi> to remove his <hi>Candleſtick</hi> from among them.</p>
+            <p>Therefore I ſay, do not think ſin to be a ſmall matter, make Conſcience of the leaſt of ſins; believe God that it is a vile thing; conſider with thy ſelf what a vain labour this labour of ſin is, it is a vain troubleſome work; when you commit it, you muſt reſolve for to die the Death, or to undo it again. Sin it may well be called the <hi>labour</hi> in <hi>vain.</hi> When thou art a doing any thing that is Evil, thou muſt repent of it, or elſe it will undo thee. Sin is a long thread of the ſinners ſpinning, that when he hath ſpun it out he muſt ſit down in ſorrow, and labour to undo his work again.</p>
+            <pb n="6" facs="tcp:152864:4"/>
+            <p>While thou art a ſinning, I can compare it to nothing better, than to the journey that <hi>Joſeph</hi> and <hi>Mary</hi> made to <hi>Jeruſalem,</hi> and left <hi>Jeſus Chriſt</hi> behind them.</p>
+            <p>My beloved, it is a ſad journeying without <hi>Chriſt</hi> in your Company: when you go on in your ſin, you muſt return again, or elſe you will loſe your Souls. This I ſay is the <hi>labour in vain of ſinners,</hi> they are doing a work that they undo again; they are running a race that they muſt run back again, or elſe it will undo them. You are gathering up of ſticks that will help to burn you; you are whetting a knife that muſt cut your own throats, you are ſpinning a thread that muſt hang you.</p>
+            <p>Oh my beloved, little do you think that you are doing this, when you are ſinning! Do not you ſay therefore; that ſin is a little matter, for God will damn the Soul and Body for it: He that will damn thee for lying, he that will damn thee for neglect of praying, he doth think that theſe ſins are great matters: Will you lay theſe things to heart.</p>
+            <p>I ſay take heed of ſin, and do not you go away with light thoughts of it.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 2. Is repentance the only way and means for to prevent the Judgments of God, which are threatned by God for ſin? <hi>Then from hence you may learn the excellency and the uſefulneſs of that grace of Repentance.</hi>
+            </p>
+            <p>Oh what an Omnipotent grace is this! it is a grace that can do any thing with God: Why, what can this grace do? what can it not do! This grace of Redemption it can redeem your mortgaged Bleſſings, it can repoſſeſs you of thoſe Bleſſings that you have fooliſhly played away. Repentance can make God to ſtay here in our Kingdom when he is a departing. Repentance it is a heart-breaking for ſin, and it breaks the heart of God likewiſe; when thy heart yearns for ſin, his heart yearns towards thee; as thou mayeſt ſee in the yearnings of
+<pb n="7" facs="tcp:152864:4"/>God's Bowels towards <hi>Ephraim,</hi> Jer. xxxi. 18, 19, 20. <hi>I have ſurely heard</hi> Ephraim <hi>bemoaning himſelf thus, Thou haſt chaſtiſed me, and I was chaſtiſed, as a bullock unaccuſ<g ref="char:EOLhyphen"/>tomed to the yoke: turn thou me, and I ſhall be turned; for thou art the Lord my God. Surely after that I was turned I repented; and after that I was inſtructed, I ſmote upon my thigh: I was aſhamed, yea, even confounded, becauſe I did bear the reproach of my youth. Is</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>phraim <hi>my dear Son? is he a pleaſant child? for ſince I ſpake againſt him, I do earneſtly remember him ſtill: therefore my bowels are troubled for him; I will ſurely have mercy upon him, ſaith the Lord.</hi>
+            </p>
+            <p>
+               <hi>Ephraim,</hi> that was a Tribe, one of the Tribes of <hi>Iſrael,</hi> you here have the Voice of a p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nitent Sinner; he ſmites upon his thigh, which is a Sign of great anguiſh of Spirit; here you have the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enitent, here you have the weeping ſhame-fac'd Sinner: But in the Verſe following, you have God ſtanding and looking on: ſaith God, <hi>Is</hi> Ephraim <hi>my dear Son? is he a pleaſant child? for ſince I ſpake againſt him, I do earneſtly remember him ſtill: therefore my bowels are troubled for him; I will ſurely have mercy upon him.</hi>
+            </p>
+            <p>If thy Heart breaks, thou ſeeſt that God's Heart will turn towards thee. Oh the excellency of Repentance, that doth ſo much prevail with the God of Heaven! It is theſe Dews and heavenly Showers that muſt revive your almoſt dying withering Bleſſings. Repentance, it is that holy Oyl that muſt recover our Lamps that are going out: Oh the excellency of Repentance!</p>
+            <p>From hence you may gather, what an excellent <hi>priviledge</hi> a penitent Heart hath with God: It is the mourning lamenting Sinner that is like to do <hi>England</hi> good; theſe hard-hearred Sinners they cannot recover an almoſt loſt Goſpel, they cannot fetch God again; but a penitent Heart can. My beloved, how can you live without ſuch a Grace? Your Souls want it, your Families want it, three Kingdoms want it; the great want in <hi>England</hi> is broken-heartedneſs.</p>
+            <pb n="8" facs="tcp:152864:5"/>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 3. Is Repentance the only Way to prevent the Judgments of God? Then you may from hence gather, <hi>That when God either hath his Plagues upon a people, or con<g ref="char:EOLhyphen"/>tinues in threatning his Judgment upon a people, it is a ſign that thoſe people are <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ery guilty of impenitency, and that this people have not yet repented of their ſins.</hi>
+            </p>
+            <p>If God threaten<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you, O <hi>England, Scotland,</hi> and <hi>Ireland:</hi> If God threatens <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou to give you up to hardneſs of Heart and blindneſs of Mind, (doth God do it at this Day?) then I ſay, O <hi>England, Scotland</hi> and <hi>Ireland,</hi> you are impenitent People at this Day: If you ſee a Kin dom groaning under the Judgments of God, it is a Sign that they have not made uſe of thoſe Remedies that would have cured them.</p>
+            <p>This is a Charge againſt <hi>England,</hi> we have been a ſtiff-necked People.</p>
+            <p>Oh <hi>England, England,</hi> how long ſhall God wait on you before you repent? how often hath God threatned to remove the Goſpel from among you? How often hath God viſited you with great and grievous Sickneſſes? How many thouſands have been killed by the Sword? How many Widows and fatherleſs Children have there been left deſolate? God hath viſited you with Mercy, and yet you repent not. Oh my beloved, is not this ſad? If God come to puniſh you after you have received ſo many mercies from him, take heed that God doth not rid his Hands of you.</p>
+            <p>Why ſit you as if you had no Hand in theſe Things, you careleſs Maſters, that never Pray in your Families, nor never Teach your Families to Pray? It is for your Sins that God doth threaten to remove the Goſpel and to take away his Miniſters. Will you repent of your Sins? If you do not, ſad will be your Ends; God may cut you off from the Face of the Earth, and raiſe up unto himſelf a Generation out of your Loyns, that may ſerve
+<pb n="9" facs="tcp:152864:5"/>him better than ever you have yet done, and God may cauſe you to die in a Wilderneſs.</p>
+            <p>Oh the hard-heartedneſs of the People of <hi>England!</hi> Oh the Swearing, the Wickedneſs, the Superſtition and Prophaneneſs that is grown up amongſt us! that I may ſay, as the World was once drowned by Water, ſo it is now almoſt filled with Wickedneſs. Oh you ſinful wicked Generation, is this your requital unto God for all his mercies? Deut. xxxii. 6. <hi>Do ye thus requite the Lord, O fooliſh people and unwiſe? is not he thy father that hath bought thee? hath he not made thee, and eſtabliſh'd thee?</hi>
+            </p>
+            <p>May I apply this to you; is this the Thanks you return to God, that hath been as a Father to you, that hath bought you, and made you? When your Sins grow ſo high, do you not think but that the wrath of God will grow high too.</p>
+            <p>Ay, But you ſay, <hi>Why de you ſpeak to us of theſe ſins? ſpeak to them that commit ſuch ſins.</hi>
+            </p>
+            <p>
+               <hi>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſwer.</hi> My beloved, have you repented of your Sins? Are you grown hard-hearted with the reſt of this Generation? Let me ask you, have you repented of thoſe Sins that you are guilty of? Yes, ſay you, we hope we have. Let me try you a little with theſe few Things.</p>
+            <p>
+               <hi>Firſt of all,</hi> Have you thought upon the Wickedneſs of your Ways? Have you ſet your Sins in order before you? Have you called to mind the Manner of your Lives and Converſations? Sin is never left until it be ſoundly laid to Heart.</p>
+            <p>A repenting Man is one that the World ſays, is a moping Man or a Woman; he is one that will look him<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elf in the Face of the Goſpel an hour to find out his Spots; and when he hath found them, he falls a Weep<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng.</p>
+            <p>
+               <hi>Secondly,</hi> If you have repented as you ſay you have; what hath been your mourning for Sin? You came
+<pb n="10" facs="tcp:152864:6"/>crying into the World, your Mother ſaid. Since the firſt Tears that you ſhed, how many Tears have you ſhed for your Sins? When were you alone in your Chambers? When have you done as <hi>Ephraim</hi> did? How often have your Cheeks been wet with your Tears? How many Handkerchiefs have you wet with your Tea s for your Sins? Oh my beloved, do you think that God will not humble you for your Sins? God will humble you before he exalt you, God will bring you to the brink of Hell before he brings you to Heaven.</p>
+            <p>
+               <hi>Thirdly,</hi> If you have repented of your Sins, as you ſay you have; then, what Reformation is there in your Lives? What Sin have you left? What Sins are they that you have forſaken?</p>
+            <p>Have you obſerved that you are more humble than you were heretofore? Do you obſerve that your Hearts are more in Heaven than they were before? Do you obſerve that you Pray more, and delight in Prayer more than you have done? It may be you are ready to cry out, that you are Well; Well, but have you repented? Alas, you talk you have repented of your Sins, when it may be you know not of one Sin that you have left. Didſt thou once ſwear by the Holy Name of God? and art thou afraid for to take his Name into thy Mouth, but with great reverence and adoration.</p>
+            <p>
+               <hi>Fourthly,</hi> Have you repented of your Sins as you ſay you have done? Then, what Reformation have you taken up for your obedience? It is your reſolution for to ſeek God more in Prayer than ever you have yet done? Will you watch your Hearts in Prayer more than you have done? Will you take more care of your Family? Will you give them an example of a holy heavenly Life,</p>
+            <p>
+               <hi>Fifthly,</hi> Have you repented of your Sins, as you ſay you have? Then, how much are you troubled for the
+<pb n="11" facs="tcp:152864:6"/>Sins of others? Do your Hearts mourn in ſecret, for the Wickedneſs and the Abominations of the Places where you live?</p>
+            <p>And now, I beſeech you, do not you flatter your<g ref="char:EOLhyphen"/>ſelves in your wicked ſinful Courſes; if you do, then I ſay, take heed that God doth not ſend his Judgments upon you: And if you repent not, doubtleſs God will bring ſome Plague upon <hi>England</hi> ere it be long.</p>
+            <p>Conſider this O <hi>England,</hi> and do not provoke God to depart from you; for, if you repent of your Sins, yon may expect to live quietly in the Land of your Nativity, and go to your death-beds in Peace and Reſt: but if you will not repent of your Sins, then, I ſay, expect nothing but Curſings inſtead of Bleſſings from God: If you will repent, do it to Day; God knows how long it may be before you you have ſuch another Day.</p>
+            <p>The welfare of your Souls depends upon it; the welfare of the Church depends upon it; the welfare of three Kingdoms depends upon it.</p>
+            <p>My beloved, it is no trifling now, <hi>Will you repent,</hi> I ask you? It may be hereafter God will give you up to hardneſs of Heart, and blindneſs of Mind; and if you go on in your wickedneſs, Hell will follow after.</p>
+            <p>Well, I ſay, <hi>Will you repent?</hi> I ask you the Queſtion, and I ask you no other Queſtion then I have asked my own ſelf, before I came into this Place. I ask you again, <hi>Will you repent,</hi> every Man and Woman among you? For Jeſus Chriſt is angry with you, and he takes away many of your Lights from among you.</p>
+            <p>That God is angry with you, it is plain, for God would never elſe have taken away his Miniſters from among you.</p>
+            <p>I doubt not but God hath made uſe of ſome of thoſe that are to ſpeak no more in the <hi>Name of Jeſus,</hi> to the ſnatching of you as fire-brands out of the Fire; and in
+<pb n="12" facs="tcp:152864:7"/>bringing you from the Kingdom of <hi>Satan,</hi> unto the Kingdom of the Lord <hi>Jeſus Chriſt.</hi>
+            </p>
+            <p>Well, will you repent? If you will not, your Sins lye at your own Doors; do not think its a hard Queſtion, when I ask you, if you will repent? There are two Places where there is no Repentance; the one is in <hi>Hell:</hi> it were a vain Thing for me to go to the Gates of <hi>Hell,</hi> and cry to them, Repent, for their Day of Grace is paſt, and their doom is paſſed upon them; I do verily think that there is more ſorrowing in Hell for Sin, than there is here upon Earth: But their ſorrow is not a ſanctified ſorrow. If the damned in Hell were delivered out of Hell, they would Sin again: If they lived eternally, they would Sin eternally. But I am not ſpeaking to Men in Hell nor to Women in Hell, but I ſpeak to you that are here upon the Earth.</p>
+            <p>Now my beloved, I beſeech you in the Name and fear of God, that you will repent. The dying Words of dying Men and Women, do uſually prevail with thoſe that here. The dying Words of Fathers and Mothers, do uſe to prevail with their Children: My beloved, if you have any love to God, if you have any love to your Souls, I ſay, <hi>repent of your Sins.</hi> It may be God hath made me inſtrumental, to the plucking of ſome of you as Fire-brands out of the Fire, and in build<g ref="char:EOLhyphen"/>ing of ſome of you up in the <hi>moſt holy Faith.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> But may ſome of you ſay, <hi>You bid me repent, how can I do it? I can no more repent than the dead Man can ariſe.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It is true, O Sinner, that thou ſayeſt: But though thou canſt not repent when thou wilt, yet if thou wilt but endeavour to ſet thy ſelf about the Work, it is probably that God may give thee a repenting Heart; therefore I ſay, take heed of ſhutting thy ſelf out from Mercy.</p>
+            <pb n="13" facs="tcp:152864:7"/>
+            <p>
+               <hi>Object.</hi> But ſay you, <hi>Why do you then preſs us to ſuch a work, when we cannot do it of our ſelves?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Mark here, when I ſay unto you, will you repent? That is, will you make uſe of the Means that God hath appointed for your Repentance? Will you reckon up all the Sins you have committed againſt God? Will you reckon up all the Times that you have been Drunk, or that you have ſworn an Oath? Will you reckon up all the Sins that you ſtand guilty of between God and your own Souls? And will you go to God and beg of him, that he would be pleaſed to pardon them?</p>
+            <p>But ſay you, <hi>What if we do not?</hi> If you do not, then you are ſtill in your Sins, and there is no Peace to you; there is no inward Peace to your Souls, there is no true Peace to your Kingdom.</p>
+            <p>But that I may prevail with you, I ſhall give you ſome Grounds or Motives to preſs this Argument more home upon your Conſciences.</p>
+            <p>
+               <hi>Firſt of all,</hi> Repent; becauſe Jeſus Chriſt hath com<g ref="char:EOLhyphen"/>manded you under great Penalties if you do not.</p>
+            <p>My beloved, conſider a little with your ſelves, who it is that ſpeaks unto you here in my Text.</p>
+            <p>It is not I, but it is Jeſus Chriſt; and doubtleſs Chriſt would never have perſwaded you to this work of repen<g ref="char:EOLhyphen"/>tance, if it were not neceſſary.</p>
+            <p>This Book is the Counſel of the Phyſician of your Souls, and the Phyſician of your Church, and the Phyſician of your Kingdom. He that ſaith unto you, repent, ſaith, if you do not, <hi>your ſins ſhall not be blotted out.</hi> He that ſaith unto you, repent, ſaith, if you do not, <hi>eternal Death ſhall follow.</hi>
+            </p>
+            <p>Repent, I ſay, or if thou doſt not, wo be unto thee; wo unto that Man that ever he was born; wo unto thee, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t had been better thou hadſt never ſeen the Light: Thy Parents that bore thee, they may repent that ever thou
+<pb n="14" facs="tcp:152864:8"/>were born. Oh my beloved, it is a terrible Thing to fall into the Hands of the living God! Oh my beloved, if your Parents ſhould ſee any of you carried in a Cart to the Gallows to be hanged, it would make them to repent that ever they brought you forth into the World! how much more then do you think it would trouble them for to ſee you thrown Body and Soul into Hell, there to be tormented with the Devil and all his Angels for ever. I ſay, repent, or elſe God will take away the Goſpel from among you; repent, or God will take away his Miniſters from among you.</p>
+            <p>
+               <hi>Secondly,</hi> Repent, for Chriſt hath encouraged you with many precious promiſes, if you will repent.</p>
+            <p>
+               <hi>Object.</hi> But ſay you, <hi>This is a hard work: What! ſhall we ever go with tears in our eyes? What will God give us for our reward?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> My beloved, your reward is great; would you know what you ſhall have? For your Sorrow, you ſhall have Crowns of Glory, you ſhall have Joy unſpeakable; if you will but repent of your Sins, God will blot them out. Methinks it ſhould make thy Heart for to ake, to think how God will deal with thee at the Day of Judgment; how God will ſay, before all the<g ref="char:punc">▪</g> holy Angels, and before thouſands of righteous Perſons, <hi>Look what a hypocrite ſtands there.</hi> God will then make known the moſt ſecret Sins, before Men and Angels, that thou wouldſt not have men to know now.</p>
+            <p>Oh repent therefore, that your Sins may be blotted out, and you ſhall never hear more of your Sins; repent, and you ſhall be ſaved; repent, and you ſhall eſcape Hell.</p>
+            <p>
+               <hi>Thirdly,</hi> Repent, becauſe God hath waited a long while upon you; how long hath God ſtayed at your
+<pb n="15" facs="tcp:152864:8"/>Doors, asking you if you would repent? How long, O thou proud Man or Woman, hath God waited upon thee? How often hath God come, and ſtood knocking at the Doors of your hard Hearts, you that are given to Taverns and Ale-houſes, and Rioting? How long will it be before I ſhall ſee you leave theſe Taverns and Ale-houſes? and let me ſee you upon your Knees in your Cloſets.</p>
+            <p>Oh thou grey-headed Sinner, God hath waited long upon thee, it may be ever ſince thou wert fifteen or ſixteen Years old; as I have known many eminent Chriſtians at thoſe Years, which hath made me much admire at it. Oh thou Sinner, God hath waited upon thee all this while, when wilt thou repent, Rom. ii. 4. <hi>Or deſpiſeſt thou the riches of his goodneſs, and forbearance, and long-ſufferings; not knowing that the goodneſs of God leadeſt thee to repentance?</hi>
+            </p>
+            <p>There is not a Bleſſing thou haſt from God, but it hath this written upon it, <hi>repent of thy Sins.</hi> Wilt thou think of what I ſay unto thee? When God puts thy Bread into thy Hands, he ſaith unto thee, <hi>Sinner, take this bread, eat it, and repent:</hi> When God puts the Cup of Beer into thy Hand, he ſaith unto thee, <hi>Sinner, take this beer, drink it, and repent:</hi> When thou ariſeſt in the Morning, he ſaith unto thee, <hi>Sinner, take this ſute of cloaths, and put it on, and repent:</hi> Every Mercy that thou receiveſt from thy God, calls thee to come along with me. Come, wilt thou leave thy Sins and go along with me? Wilt thou leave Hell, and go along with me? My beloved, I will deſire you to bear a little with me, becauſe I am ſo urgent in preſſing this great Work of Repentance.</p>
+            <pb n="16" facs="tcp:152864:9"/>
+            <p>
+               <hi>Fourthly,</hi> Conſider, if you will return and repent, God will return to you; if you will leave your Sins, God will not be angry with you; if you will have the Means of Grace, God will give you the Means of Grace. My beloved, God never goes from you, until you go away from him; God hath intreated you to return, and God hath promiſed to return to you.</p>
+            <p>My beloved you have heard the Parable of the prodigal Son, how he ran away from his Father, but at laſt when he was ready to periſh with Hunger he <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>rns to his Father's Houſe again.</p>
+            <p>So, my beloved, God is your Father, but you are Prodigals; all the Sins that you have committed againſt God is Prodigality. But yet, let me tell you, if you are willing to come to God's Feet, he will take you about the Neck; if you are willing to forſake your Sins, God is willing and ready to pardon your Sins; if you have been a wicked, ſinful, rebellious People, yet if you will turn to the Lord, he will turn to you.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
